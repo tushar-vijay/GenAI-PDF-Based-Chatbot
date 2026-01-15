@@ -52,5 +52,6 @@ This project solves that problem by enabling **instant, intelligent querying of 
 
 ```text
 ├── app.py
+├── PDF_Based_ChatBot.png
 └── README.md
 ```
